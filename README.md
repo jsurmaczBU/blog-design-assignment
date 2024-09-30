@@ -5,7 +5,7 @@ For this assignment you are given a marked HTML blog file. You will write CSS to
 ## Helpful Resources
 - [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 - [Responses to WD is 95% Type](https://ia.net/topics/webdesign-is-95-typography-partii)
-- [Foundations of Web Typographty](https://fonts.google.com/knowledge/using_type/the_foundations_of_web_typography)
+- [Foundations of Web Typography](https://fonts.google.com/knowledge/using_type/the_foundations_of_web_typography)
 - [Using Web Fonts](https://fonts.google.com/knowledge/using_type/using_web_fonts)
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) * Use this for accessibility/legibility of your type
 - [Typography in CSS](https://cssreference.io/typography/)
